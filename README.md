@@ -17,7 +17,7 @@
 - :email: You can reach out to me at: arthura.demenezes@gmail.com
 - Or send me a message at Linkedin! 
 <a href="https://www.linkedin.com/in/arthurademenezes">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
 
