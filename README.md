@@ -13,7 +13,7 @@
 - :technologist: I'm a Python developer with experience in front-end, back-end (Python/Django), and data analysis.
 - :rocket: My proposal is to unite law and technology to provide intelligent solutions to legal issues.
 - :student: I’m currently studying: `Systems Analysis and Development` and `Law`. I'll finish both of them in December!
-- :thinking: If you have an interest in my profile, checkout my resume [in english](https://drive.google.com/file/d/1jQNNcoLdbUT_kVylSJMoNoaREYlFjdFe/view?usp=sharing) or [in portuguese](https://drive.google.com/file/d/13gFR5EZhWPGJBVEmWvCjXwGftYhpUBjl/view?usp=sharing)!
+- :thinking: If you have an interest in my profile, checkout my resume [in english](https://drive.google.com/file/d/1jQNNcoLdbUT_kVylSJMoNoaREYlFjdFe/view?usp=sharing) or [in portuguese](https://drive.google.com/file/d/1q6Lx3ii_zHo1HEAvsk9W2YFnwrJ7QQgN/view?usp=sharing)!
 - :email: You can reach out to me at: arthura.demenezes@gmail.com
 - Or send me a message at Linkedin!    <a href="https://www.linkedin.com/in/arthurademenezes">
   <img alt="Arthur's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
