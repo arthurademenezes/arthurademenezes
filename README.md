@@ -9,7 +9,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-- :school: I'm a `Software Developer` at Fincap Law.
+- :school: I'm a `Software Developer` at Scissero.
 - :technologist: I'm a Python/Javascript developer with experience in front-end, and back-end languages like Python/Django and Javascript, as well as data analysis.
 - :rocket: My proposal is to unite law and technology to provide intelligent solutions to legal issues.
 - :student: I'm a graduate in `Systems Analysis and Development` and `Law`.
